@@ -52,12 +52,15 @@ social_media:
 topics:
   - name: Unity
     web_url: https://unity.com/
-    image_url: https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab-square-black.png
+    image_url: /Images/unity-logo.png
+    # https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab-square-black.png
 
   - name: TensorFlow
     web_url: https://www.tensorflow.org/
-    image_url: https://www.logolynx.com/images/logolynx/ff/fffb2a56e7e2cbd994adb1eda8f3d8c2.jpeg
+    image_url: /Images/tensorflow-logo.jpeg
+    # https://www.logolynx.com/images/logolynx/ff/fffb2a56e7e2cbd994adb1eda8f3d8c2.jpeg
 
   - name: Django
     web_url: https://www.djangoproject.com/
-    image_url: https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png
+    image_url: /Images/django-logo.png
+    # https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png
